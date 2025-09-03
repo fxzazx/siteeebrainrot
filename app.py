@@ -144,7 +144,7 @@ def buy(product_id):
 # -----------------
 # Configuração Discord Bot
 # -----------------
-TOKEN = "MTQxMjg1NDgwOTc2MTE1NzI2Mw.G-jjoN.smm0p-xf3dO9eDg6MRdxeAW908oiIVERajpeAA"
+TOKEN = "MTQxMjg1NDgwOTc2MTE1NzI2Mw.GZxjtx.GEJt6bhzwwJSu9BkcOnjZv2X0xBbGeyQyyYu34"
 GUILD_ID = 1412135078137430016  # ID do servidor
 TICKET_CATEGORY = 1412135078687146006  # ID da categoria para tickets
 PRODUCT_CREATION_CATEGORY = 1412135078687146007  # ID da categoria para criação de produtos
